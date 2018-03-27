@@ -1,2 +1,3 @@
-# html-css-playground
+# HTML CSS Playground
+
 A playground for HTML and CSS
